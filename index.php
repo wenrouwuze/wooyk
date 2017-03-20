@@ -1,3 +1,3 @@
 <?php
-define('__APPLICATION__','./C/');
+define('__APPLICATION__','./application/C/');
 ?>
